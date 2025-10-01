@@ -1,0 +1,1 @@
+say some hello to get started with git
